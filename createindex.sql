@@ -1,0 +1,1 @@
+create index LookUpOrders on Orders(bookID, memberID);
